@@ -2,8 +2,7 @@
 
 #### About me:
 
-I have a huge passion for making sense of data. The larger the dataset, the brighter my ![image](https://github.com/Sparrow1979/Sparrow1979/assets/112954423/c09525a0-5489-4c19-aa27-0d7b66f14ba0)
- shine. I also love coding. Data science is where my two passions merge. 
+I have a huge passion for making sense of data. The larger the dataset, the brighter my eyes shine. I also love coding. Data science is where my two passions merge. 
   
 - 🌱 I have just completed Turing College Data Science program (Machine learning).
   
