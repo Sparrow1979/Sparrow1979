@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### About me:
-
 I have a huge passion for making sense of data. The larger the dataset, the brighter my eyes shine. I also love coding. Data science is where my two passions merge. 
   
 - 🌱 I have just completed Turing College Data Science program (Machine learning).
