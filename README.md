@@ -17,7 +17,7 @@ I have a huge passion for making sense of data. The larger the dataset, the brig
     
 - 🛠 My tools:
   * Advanced Excel (Power Query) - 20 years / Power BI - 4 years
-  * Python - hobby-styding since 2015. 2022-2023 was a rocket year in Turing College.
+  * Python - hobby-studying since 2015. 2022-2023 was a rocket year in Turing College.
   * SQL
     
 - 🔭 My contacts: dp@businessfinance.lt, https://www.linkedin.com/in/deivydas-pagojus/
